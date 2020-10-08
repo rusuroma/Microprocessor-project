@@ -1,0 +1,7 @@
+Fisierul de configurare:
+1.4 LED-uri sunt conectate la pinii 2,3,4,5 (pe placa fizica este nevoie si 
+de rezistente pentru a limita curentul prin LED, de 220 de ohmi e de ajuns)
+2.Un buton de start este conectat la pinul 11
+3.4 butoane corespunzatoare fiecarui LED in parte sunt conectate la pinurile A0, A1, A2, A3
+4.LCD-ul este conectat cu SDA la pinul A4 si cu SCL la A5, trebuie bifata si Blackpack 
+(Pe placa fizica mai aveam nevoie si de alimentare si GND pentru LCD).   
